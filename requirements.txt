@@ -1,0 +1,19 @@
+# IoT Smart Agriculture Monitoring System
+# Python dependencies
+
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Dashboard
+streamlit>=1.32.0
+plotly>=5.18.0
+
+# Optional: MQTT support
+# paho-mqtt>=1.6.1
+
+# Optional: ThingSpeak API
+# requests>=2.31.0
+
+# Optional: Blynk
+# blynklib>=0.2.6
