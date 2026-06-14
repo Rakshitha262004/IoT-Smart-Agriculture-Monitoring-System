@@ -238,6 +238,18 @@ Open browser: `http://localhost:8501`
 | GND | GND |
 
 ---
+## Screenshots
+|dashboard|Readings|data logs|
+|---------|--------|---------|
+|![dashboard](outputs/1.png)|![dashboard](outputs/2.png)|![dashboard](outputs/3.png)|
+|![dashboard](outputs/4.png)|![dashboard](outputs/5.png)|![dashboard](outputs/6.png)|
+
+---
+
+## Demo Video
+Link : https://drive.google.com/file/d/15fQN7b5EyzdQuYw5N8TAChzdet-f4obe/view?usp=sharing
+
+---
 
 ## 🎯 IoT Concepts Demonstrated
 
@@ -266,7 +278,7 @@ After completing this project you will understand:
 
 ## 🤝 Author
 
-**Rakshitha** — B.E. Cybersecurity, ACS College of Engineering, Bengaluru  
+**Rakshitha** — B.E. Cybersecurity  
 GitHub: [github.com/Rakshitha262004](https://github.com/Rakshitha262004)
 
 ---
